@@ -1,0 +1,36 @@
+html{
+    font-family: 'Baloo Paaji 2', cursive;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+h4{
+    font-size: 45px;
+    text-align: center;
+    color: blue;
+}
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+html{
+    background-color: lightblue;
+}body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: lightcoral;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid black;
+
+}
+h4{
+    margin: 0;
+    padding: 20px 0;
+    color: grey;
+    text-shadow: 3px 3px 1px black;
+}
+img{ 
+    display: block;
+    margin: 0 auto;
+    border: 2px solid blue;
+}
